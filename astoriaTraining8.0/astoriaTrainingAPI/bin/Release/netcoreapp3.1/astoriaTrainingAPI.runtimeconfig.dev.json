@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Astoria\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Astoria\\.nuget\\packages"
+    ]
+  }
+}
